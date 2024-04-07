@@ -1,6 +1,7 @@
 {
   "name": "react-mobx",
   "version": "0.1.0",
+  "homepage": "https://mentalist01.github.io/job_project",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.4",
